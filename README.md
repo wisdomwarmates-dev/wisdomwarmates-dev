@@ -1,16 +1,21 @@
 ## Hi there 👋
 
-<!--
-**wisdomwarmates-dev/wisdomwarmates-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Wisdom Warmate</h1>
+<h3 align="center">Aspiring Senior Web/App Developer | UI/UX Designer</h3>
 
-Here are some ideas to get you started:
+# About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a detail-oriented and passionate front-end developer. My journey into software development began with a desire to build innovative digital solutions for businesses. With a strong foundation in business administration, I'm excited to leverage my skills to drive business growth through technology. My goal is to become a senior web/app developer and contribute to developing and maintaining websites/apps for diverse businesses.
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
+
+## Education
+
+* MSc in Business Administration
+* ALX Front-end Software Development Program
+
+* ## Let's Connect
+
+* [LinkedIn](https://www.linkedin.com/in/wisdomwarmate-softwareengineer)
+* [Email](mailto:wisdomwarmates@gmail.com)
+
