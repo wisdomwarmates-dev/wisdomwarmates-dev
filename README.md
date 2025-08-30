@@ -16,6 +16,6 @@ I'm a detail-oriented and passionate front-end developer. My journey into softwa
 
 * ## Let's Connect
 
-* [LinkedIn](https://www.linkedin.com/in/wisdomwarmate-softwareengineer)
+* [LinkedIn](www.linkedin.com/in/wisdom-warmate-softwareengineer)
 * [Email](mailto:wisdomwarmates@gmail.com)
 
